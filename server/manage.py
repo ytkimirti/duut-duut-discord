@@ -3,6 +3,8 @@
 import os
 import sys
 
+# Disable for now
+quit()
 
 def main():
     """Run administrative tasks."""
